@@ -39,7 +39,7 @@ class ManipulaRepositorios:
 novo_repo = ManipulaRepositorios('andersonralla')
 
 nome_repo = 'linguagens-repositorios-empresas'
-novo_repo.cria_repo(nome_repo)
+novo_repo.cria_repo(nome_repo) 
 
 #novo_repo.add_arquivo(nome_repo, 'linguagens_amzn.csv', 'dados/linguagens_amzn.csv')
 #novo_repo.add_arquivo(nome_repo, 'linguagens_netflix.csv', 'dados/linguagens_netflix.csv')
